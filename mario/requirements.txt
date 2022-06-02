@@ -9,7 +9,7 @@ django-allauth==0.38.0
 django-filter==2.1.0
 django-widget-tweaks==1.4.3
 gunicorn==19.6.0
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.8
 Markdown==2.6.6
 oauthlib==3.0.1
